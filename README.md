@@ -1,5 +1,5 @@
-# DSC-Ship-Project-Page-github.io
+# Ship-Project-Page-github.io
 
-This page includes a project for DSC 450
+This page includes a software solution for efficient shipping.
 
-The project is regarding efficient shipping. I include a word doc report that explains the project.
+I include a word doc that explains the project.
